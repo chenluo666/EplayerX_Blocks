@@ -1,7 +1,7 @@
 {
   "filters": [
     {
-      "id": "4k-ultra-hd",
+      "id": "4k",
       "groupId": "resolution",
       "name": "4K Ultra HD",
       "pattern": "(?i)\\b(4k|2160p|uhd|ultra\\s*hd)\\b",
@@ -14,7 +14,7 @@
       "type": "filter"
     },
     {
-      "id": "1080p-full-hd",
+      "id": "1080p",
       "groupId": "resolution",
       "name": "1080p Full HD",
       "pattern": "(?i)\\b(1080p|fhd|full\\s*hd)\\b",
@@ -27,11 +27,50 @@
       "type": "filter"
     },
     {
+      "id": "720p",
+      "groupId": "resolution",
+      "name": "720 Full HD",
+      "pattern": "(?i)\\b(720p|fhd|full\\s*hd)\\b",
+      "imageURL": "https://raw.githubusercontent.com/chenluo666/EplayerX_Blocks/blob/main/1080p.png",
+      "tagColor": "#00000000",
+      "borderColor": "#00000000",
+      "textColor": "#00000000",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
       "id": "dolby-vision",
       "groupId": "video-tech",
       "name": "Dolby Vision",
-      "pattern": "(?i)\\b(dolby\\s*vision|dovi|dv)\\b",
+      "pattern": "(?i)\\b(dolby\\s*vision|)\\b",
       "imageURL": "https://raw.githubusercontent.com/chenluo666/EplayerX_Blocks/blob/main/DolbyVision.png",
+      "tagColor": "#00000000",
+      "borderColor": "#00000000",
+      "textColor": "#00000000",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "dolby-digital",
+      "groupId": "video-tech",
+      "name": "Dolby Digital",
+      "pattern": "(?i)\\b(dolby\\s*digital)\\b",
+      "imageURL": "https://raw.githubusercontent.com/chenluo666/EplayerX_Blocks/blob/main/DolbyDigital.png",
+      "tagColor": "#00000000",
+      "borderColor": "#00000000",
+      "textColor": "#00000000",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+{
+      "id": "dolby-aduio",
+      "groupId": "video-tech",
+      "name": "Dolby Aduio",
+      "pattern": "(?i)\\b(dolby\\s*aduio|)\\b",
+      "imageURL": "https://raw.githubusercontent.com/chenluo666/EplayerX_Blocks/blob/main/DolbyAduio.png",
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
@@ -71,32 +110,6 @@
       "name": "SDR",
       "pattern": "(?i)\\bsdr\\b",
       "imageURL": "https://raw.githubusercontent.com/leonevz/Elite-Badges/main/Badges/SDR_transparent_4x.png",
-      "tagColor": "#00000000",
-      "borderColor": "#00000000",
-      "textColor": "#00000000",
-      "tagStyle": "filled and bordered",
-      "isEnabled": true,
-      "type": "filter"
-    },
-    {
-      "id": "imax",
-      "groupId": "video-tech",
-      "name": "IMAX",
-      "pattern": "(?i)\\b(imax)\\b(?![\\s._-]*enhanced)",
-      "imageURL": "https://raw.githubusercontent.com/leonevz/Elite-Badges/main/Badges/imax.png",
-      "tagColor": "#00000000",
-      "borderColor": "#00000000",
-      "textColor": "#00000000",
-      "tagStyle": "filled and bordered",
-      "isEnabled": true,
-      "type": "filter"
-    },
-    {
-      "id": "dolby-audio",
-      "groupId": "audio-tech",
-      "name": "Dolby Atmos",
-      "pattern": "(?i)\\b(dolby\\s*audio|audio)\\b",
-      "imageURL": "https://raw.githubusercontent.com/chenluo666/EplayerX_Blocks/blob/main/DolbyAudio.png",
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
