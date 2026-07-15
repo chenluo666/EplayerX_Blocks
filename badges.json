@@ -3,7 +3,7 @@
     {
       "id": "4k",
       "groupId": "resolution",
-      "name": "4K Ultra HD",
+      "name": "4K",
       "pattern": "(?i)\\b(4k|2160p|uhd|ultra\\s*hd)\\b",
       "imageURL": "https://raw.githubusercontent.com/chenluo666/EplayerX_Blocks/main/4K.png",
       "tagColor": "#00000000",
@@ -16,7 +16,7 @@
     {
       "id": "1080p",
       "groupId": "resolution",
-      "name": "1080p Full HD",
+      "name": "1080p",
       "pattern": "(?i)\\b(1080p|fhd|full\\s*hd)\\b",
       "imageURL": "https://raw.githubusercontent.com/chenluo666/EplayerX_Blocks/main/1080p.png",
       "tagColor": "#00000000",
@@ -29,7 +29,7 @@
     {
       "id": "720p",
       "groupId": "resolution",
-      "name": "720 Full HD",
+      "name": "720p",
       "pattern": "(?i)\\b(720p|fhd|full\\s*hd)\\b",
       "imageURL": "https://raw.githubusercontent.com/chenluo666/EplayerX_Blocks/main/720p.png",
       "tagColor": "#00000000",
@@ -68,7 +68,7 @@
     {
       "id": "imax",
       "groupId": "video-tech",
-      "name": "Imax",
+      "name": "IMAX",
       "pattern": "(?i)\\b(dolby\\s*imax|)\\b",
       "imageURL": "https://raw.githubusercontent.com/chenluo666/EplayerX_Blocks/main/IMAX.png",
       "tagColor": "#00000000",
