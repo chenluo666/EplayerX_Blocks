@@ -109,7 +109,7 @@
       "groupId": "video-tech",
       "name": "HDR10",
       "pattern": "(?i)\\b(hdr[\\s._-]*10)\\b(?![\\s._-]*(\\+|plus))",
-      "imageURL": "https://raw.githubusercontent.com/chenluo666/EplayerX_Blocks/main/hdr10.png",
+      "imageURL": "https://raw.githubusercontent.com/chenluo666/EplayerX_Blocks/main/HDR10.png",
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
