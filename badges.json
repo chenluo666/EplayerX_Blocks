@@ -5,7 +5,7 @@
       "groupId": "resolution",
       "name": "4K Ultra HD",
       "pattern": "(?i)\\b(4k|2160p|uhd|ultra\\s*hd)\\b",
-      "imageURL": "https://raw.githubusercontent.com/chenluo666/EplayerX_Blocks/main/4K.png",
+      "imageURL": "https://raw.githubusercontent.com/chenluo666/EplayerX_Blocks/main/4k.png",
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
