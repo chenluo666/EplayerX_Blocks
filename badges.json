@@ -52,7 +52,7 @@
       "isEnabled": true,
       "type": "filter"
     },
-    {
+{
       "id": "dolby-digital",
       "groupId": "audio-tech",
       "name": "Dolby Digital",
@@ -104,19 +104,45 @@
       "isEnabled": true,
       "type": "filter"
     },
-    {
-      "id": "hdr10",
-      "groupId": "video-tech",
-      "name": "HDR10",
-      "pattern": "(?i)\\b(hdr[\\s._-]*10)\\b(?![\\s._-]*(\\+|plus))",
-      "imageURL": "https://raw.githubusercontent.com/chenluo666/EplayerX_Blocks/main/HDR10.png",
-      "tagColor": "#00000000",
-      "borderColor": "#00000000",
-      "textColor": "#00000000",
-      "tagStyle": "filled and bordered",
-      "isEnabled": true,
-      "type": "filter"
-    },
+{
+  "id": "hdr10+",
+  "groupId": "video-tech",
+  "name": "HDR10+",
+  "pattern": "(?i)\\b(hdr[\\s._-]*10[\\s._-]*(\\+|plus))\\b",
+  "imageURL": "https://raw.githubusercontent.com/chenluo666/EplayerX_Blocks/main/HDR10Plus.png",
+  "tagColor": "#00000000",
+  "borderColor": "#00000000",
+  "textColor": "#00000000",
+  "tagStyle": "filled and bordered",
+  "isEnabled": true,
+  "type": "filter"
+},
+{
+  "id": "hdr10",
+  "groupId": "video-tech",
+  "name": "HDR10",
+  "pattern": "(?i)\\b(hdr[\\s._-]*10)\\b(?![\\s._-]*(\\+|plus))",
+  "imageURL": "https://raw.githubusercontent.com/chenluo666/EplayerX_Blocks/main/HDR10.png",
+  "tagColor": "#00000000",
+  "borderColor": "#00000000",
+  "textColor": "#00000000",
+  "tagStyle": "filled and bordered",
+  "isEnabled": true,
+  "type": "filter"
+},
+{
+  "id": "hdr",
+  "groupId": "video-tech",
+  "name": "HDR",
+  "pattern": "(?i)\\b(hdr|high[\\s._-]*dynamic[\\s._-]*range)\\b(?![\\s._-]*(10|10[\\s._-]*(\\+|plus)|plus))",
+  "imageURL": "https://raw.githubusercontent.com/chenluo666/EplayerX_Blocks/main/HDR.png",
+  "tagColor": "#00000000",
+  "borderColor": "#00000000",
+  "textColor": "#00000000",
+  "tagStyle": "filled and bordered",
+  "isEnabled": true,
+  "type": "filter"
+},
     {
       "id": "71-audio",
       "groupId": "audio-channels",
