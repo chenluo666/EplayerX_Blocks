@@ -144,18 +144,18 @@
   "type": "filter"
 },
 {
-  "id": "sdr",
-  "groupId": "video-tech",
-  "name": "SDR",
-  "pattern": "(?i)\\bsdr\\b",
-  "imageURL": "https://raw.githubusercontent.com/chenluo666/EplayerX_Blocks/main/SDR.png",
-  "tagColor": "#00000000",
-  "borderColor": "#00000000",
-  "textColor": "#00000000",
-  "tagStyle": "filled and bordered",
-  "isEnabled": true,
-  "type": "filter"
-}
+      "id": "sdr",
+      "groupId": "video-tech",
+      "name": "SDR",
+      "pattern": "(?i)\\bsdr\\b",
+      "imageURL": "https://raw.githubusercontent.com/chenluo666/EplayerX_Blocks/main/SDR.png",
+      "tagColor": "#00000000",
+      "borderColor": "#00000000",
+      "textColor": "#00000000",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
     {
       "id": "71-audio",
       "groupId": "audio-channels",
