@@ -1,100 +1,74 @@
-{
+[
+  {
     "title": "完美世界",
-    "tmdb_id": 124003,
-  },
-  {
-    "title": "逆天邪神",
-    "tmdb_id": 235643,
-  },
-  {
-    "title": "盘龙",
-    "tmdb_id": 283805,
-  },
-  {
-    "title": "将夜",
-    "tmdb_id": 282136,
+    "tmdb_id": 124003
   },
   {
     "title": "诛仙",
-    "tmdb_id": 206484,
+    "tmdb_id": 206484
+  },
+  {
+    "title": "逆天邪神",
+    "tmdb_id": 235643
+  },
+  {
+    "title": "盘龙",
+    "tmdb_id": 283805
+  },
+  {
+    "title": "将夜",
+    "tmdb_id": 282136
   },
   {
     "title": "神墓",
-    "tmdb_id": 206343,
+    "tmdb_id": 206343
   },
   {
     "title": "画江湖之不良人",
-    "tmdb_id": 83463,
+    "tmdb_id": 83463
   },
   {
     "title": "东大高武学院",
-    "tmdb_id": 323839,
-  },
-  {
-    "title": "盗妖行",
-    "tmdb_id": 315088,
-  },
-  {
-    "title": "陆地键仙",
-    "tmdb_id": 257762,
-  },
-  {
-    "title": "丹道至尊",
-    "tmdb_id": 242279,
+    "tmdb_id": 323839
   },
   {
     "title": "余烬行者",
-    "tmdb_id": 289273,
+    "tmdb_id": 289273
   },
   {
     "title": "通灵妃",
-    "tmdb_id": 84737,
-  },
-  {
-    "title": "双生武魂",
-    "tmdb_id": 290681,
+    "tmdb_id": 84737
   },
   {
     "title": "我为刀宗",
-    "tmdb_id": 294747,
-  },
-  {
-    "title": "通灵妃",
-    "tmdb_id": 84737,
-  },
-  {
-    "title": "小仙之瑶",
-    "tmdb_id": 289414,
-  },
-  {
-    "title": "万剑王座",
-    "tmdb_id": 297415,
+    "tmdb_id": 294747
   },
   {
     "title": "妖神记",
-    "tmdb_id": 76806,
+    "tmdb_id": 76806
   },
   {
     "title": "武动乾坤",
-    "tmdb_id": 87007,
+    "tmdb_id": 87007
   },
   {
     "title": "大唐乘风录",
-    "tmdb_id": 280952,
+    "tmdb_id": 280952
   },
   {
     "title": "秦时明月",
-    "tmdb_id": 45279,
+    "tmdb_id": 45279
   },
   {
     "title": "回铭之烽火三月",
-    "tmdb_id": 253336,
+    "tmdb_id": 253336
   },
   {
     "title": "元尊",
-    "tmdb_id": 232853,
+    "tmdb_id": 232853
   },
   {
     "title": "穿书自救指南",
-    "tmdb_id": 109329,
-  },
+    "tmdb_id": 109329
+  }
+]
