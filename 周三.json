@@ -1,85 +1,78 @@
-{
+[
+  {
     "title": "斩神",
-    "tmdb_id": 259231,
+    "tmdb_id": 259231
   },
   {
     "title": "搜神记",
-    "tmdb_id": 233291,
+    "tmdb_id": 233291
   },
- {
+  {
     "title": "李熊猫",
-    "tmdb_id": 329026,
+    "tmdb_id": 329026
   },
- {
+  {
     "title": "灵境行者",
-    "tmdb_id": 297923,
+    "tmdb_id": 297923
   },
   {
     "title": "剑来",
-    "tmdb_id": 259537,
+    "tmdb_id": 259537
   },
   {
     "title": "师兄啊师兄",
-    "tmdb_id": 218642,
+    "tmdb_id": 218642
   },
-  
- {
+  {
     "title": "都市古仙医",
-    "tmdb_id": 273263,
+    "tmdb_id": 273263
   },
   {
     "title": "眷思量",
-    "tmdb_id": 127473,
+    "tmdb_id": 127473
   },
   {
     "title": "神印王座",
-    "tmdb_id": 198182,
-  },
-  {
-    "title": "吞天记",
-    "tmdb_id": 291542,
+    "tmdb_id": 198182
   },
   {
     "title": "最强升级",
-    "tmdb_id": 281587,
+    "tmdb_id": 281587
   },
   {
     "title": "君有云",
-    "tmdb_id": 198002,
+    "tmdb_id": 198002
   },
   {
     "title": "双生武魂",
-    "tmdb_id": 290681,
+    "tmdb_id": 290681
   },
   {
     "title": "缥缈剑仙传",
-    "tmdb_id": 297591,
+    "tmdb_id": 297591
   },
   {
     "title": "少年歌行",
-    "tmdb_id": 85219,
+    "tmdb_id": 85219
   },
   {
     "title": "玄界之门",
-    "tmdb_id": 301429,
+    "tmdb_id": 301429
   },
   {
     "title": "天相",
-    "tmdb_id": 301043,
+    "tmdb_id": 301043
   },
   {
     "title": "刺客伍六七",
-    "tmdb_id": 79141,
-  },
-  {
-    "title": "少年歌行",
-    "tmdb_id": 85219,
+    "tmdb_id": 79141
   },
   {
     "title": "天官赐福",
-    "tmdb_id": 112398,
+    "tmdb_id": 112398
   },
   {
     "title": "第一序列",
-    "tmdb_id": 230246,
-  },
+    "tmdb_id": 230246
+  }
+]
