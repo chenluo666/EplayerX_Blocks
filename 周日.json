@@ -1,64 +1,54 @@
-{
+[
+  {
     "title": "仙逆",
-    "tmdb_id": 223911,
+    "tmdb_id": 223911
   },
   {
     "title": "牧神记",
-    "tmdb_id": 236534,
+    "tmdb_id": 236534
   },
   {
     "title": "财神窦占龙",
-    "tmdb_id": 330609,
+    "tmdb_id": 330609
   },
   {
     "title": "云深不知梦",
-    "tmdb_id": 284760,
+    "tmdb_id": 284760
   },
   {
     "title": "茶啊二中",
-    "tmdb_id": 119059,
+    "tmdb_id": 119059
   },
   {
     "title": "成何体统",
-    "tmdb_id": 256783,
+    "tmdb_id": 256783
   },
   {
     "title": "长歌行",
-    "tmdb_id": 281199,
-  },
-  {
-    "title": "都市古仙医",
-    "tmdb_id": 273263,
-  },
-  {
-    "title": "缥缈剑仙传",
-    "tmdb_id": 297591,
+    "tmdb_id": 281199
   },
   {
     "title": "魔天记",
-    "tmdb_id": 282157,
-  },
-  {
-    "title": "武神主宰",
-    "tmdb_id": 110181,
+    "tmdb_id": 282157
   },
   {
     "title": "凸变英雄",
-    "tmdb_id": 68135,
+    "tmdb_id": 68135
   },
   {
     "title": "赘婿",
-    "tmdb_id": 139173,
+    "tmdb_id": 139173
   },
   {
     "title": "雾山五行",
-    "tmdb_id": 102788,
+    "tmdb_id": 102788
   },
   {
     "title": "天宝伏妖录",
-    "tmdb_id": 105644,
+    "tmdb_id": 105644
   },
   {
     "title": "仙王的日常生活",
-    "tmdb_id": 98123,
-  },
+    "tmdb_id": 98123
+  }
+]
