@@ -1,44 +1,46 @@
-{
-    "title": "吞噬星空",
-    "tmdb_id": 101172,
-  },
+[
   {
-    "title": "大道独行",
-    "tmdb_id": 317320,
+    "title": "吞噬星空",
+    "tmdb_id": 101172
   },
   {
     "title": "灵武大陆",
-    "tmdb_id": 259844,
+    "tmdb_id": 259844
+  },
+  {
+    "title": "大道独行",
+    "tmdb_id": 317320
   },
   {
     "title": "无上神帝",
-    "tmdb_id": 107116,
+    "tmdb_id": 107116
   },
   {
     "title": "星辰变",
-    "tmdb_id": 83708,
+    "tmdb_id": 83708
   },
   {
     "title": "陆地键仙",
-    "tmdb_id": 257762,
+    "tmdb_id": 257762
   },
   {
     "title": "宗门里除了我都是卧底",
-    "tmdb_id": 274149,
+    "tmdb_id": 274149
   },
   {
     "title": "吞天记",
-    "tmdb_id": 291542,
+    "tmdb_id": 291542
   },
   {
     "title": "小仙之瑶",
-    "tmdb_id": 289414,
+    "tmdb_id": 289414
   },
   {
     "title": "万剑王座",
-    "tmdb_id": 297415,
+    "tmdb_id": 297415
   },
   {
     "title": "仙帝归来",
-    "tmdb_id": 303881,
-  },
+    "tmdb_id": 303881
+  }
+]
