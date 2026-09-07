@@ -1,96 +1,82 @@
-{
+[
+  {
     "title": "沧元图",
-    "tmdb_id": 229192,
+    "tmdb_id": 229192
   },
   {
     "title": "大主宰",
-    "tmdb_id": 226045,
+    "tmdb_id": 226045
   },
   {
     "title": "绝世唐门",
-    "tmdb_id": 228429,
+    "tmdb_id": 228429
   },
   {
     "title": "百日成王",
-    "tmdb_id": 326844,
+    "tmdb_id": 326844
   },
   {
     "title": "封天契",
-    "tmdb_id": 331660,
+    "tmdb_id": 331660
   },
   {
     "title": "灵笼",
-    "tmdb_id": 91097,
-  },
-  {
-    "title": "无上神帝",
-    "tmdb_id": 107116,
+    "tmdb_id": 91097
   },
   {
     "title": "龙族",
-    "tmdb_id": 107255,
+    "tmdb_id": 107255
   },
   {
     "title": "镇魂街",
-    "tmdb_id": 70923,
+    "tmdb_id": 70923
   },
   {
     "title": "深空彼岸",
-    "tmdb_id": 283119,
+    "tmdb_id": 283119
   },
   {
     "title": "一人之下",
-    "tmdb_id": 67063,
-  },
-  {
-    "title": "灵武大陆",
-    "tmdb_id": 259844,
+    "tmdb_id": 67063
   },
   {
     "title": "永生",
-    "tmdb_id": 156571,
+    "tmdb_id": 156571
   },
   {
     "title": "苍兰诀",
-    "tmdb_id": 206534,
+    "tmdb_id": 206534
   },
   {
     "title": "百炼成神",
-    "tmdb_id": 213791,
+    "tmdb_id": 213791
   },
   {
     "title": "斗罗大陆",
-    "tmdb_id": 76572,
+    "tmdb_id": 76572
   },
   {
     "title": "百妖谱",
-    "tmdb_id": 101099,
-  },
-  {
-    "title": "独步万古",
-    "tmdb_id": 235893,
+    "tmdb_id": 101099
   },
   {
     "title": "仙宠",
-    "tmdb_id": 289197,
-  },
-  {
-    "title": "镇魂街",
-    "tmdb_id": 70923,
+    "tmdb_id": 289197
   },
   {
     "title": "枕刀歌",
-    "tmdb_id": 118651,
+    "tmdb_id": 118651
   },
   {
     "title": "剑网3侠肝义胆沈剑心",
-    "tmdb_id": 82497,
+    "tmdb_id": 82497
   },
   {
     "title": "西行记",
-    "tmdb_id": 234684,
+    "tmdb_id": 234684
   },
   {
     "title": "全职高手",
-    "tmdb_id": 71194,
-  },
+    "tmdb_id": 71194
+  }
+]
