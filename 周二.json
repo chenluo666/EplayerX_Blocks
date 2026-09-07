@@ -1,76 +1,78 @@
- {
-    "title": "遮天",
-    "tmdb_id": 224839,
-  },
+[
   {
-    "title": "一念永恒",
-    "tmdb_id": 107371,
+    "title": "遮天",
+    "tmdb_id": 224839
   },
   {
     "title": "一斩苍穹",
-    "tmdb_id": 303287,
+    "tmdb_id": 303287
   },
   {
-    "title": "万古神帝",
-    "tmdb_id": 329260,
-  },
-  {
-    "title": "紫川",
-    "tmdb_id": 153869,
+    "title": "一念永恒",
+    "tmdb_id": 107371
   },
   {
     "title": "炼气十万年",
-    "tmdb_id": 220850,
+    "tmdb_id": 220850
+  },
+  {
+    "title": "万古神帝",
+    "tmdb_id": 329260
+  },
+  {
+    "title": "紫川",
+    "tmdb_id": 153869
   },
   {
     "title": "丹道至尊",
-    "tmdb_id": 242279,
+    "tmdb_id": 242279
   },
   {
     "title": "盗妖行",
-    "tmdb_id": 315088,
+    "tmdb_id": 315088
   },
   {
     "title": "绝世战魂",
-    "tmdb_id": 252788,
+    "tmdb_id": 252788
   },
   {
     "title": "九阳武神",
-    "tmdb_id": 305899,
+    "tmdb_id": 305899
   },
   {
     "title": "万人之上",
-    "tmdb_id": 325040,
+    "tmdb_id": 325040
   },
   {
     "title": "武神主宰",
-    "tmdb_id": 110181,
+    "tmdb_id": 110181
   },
   {
     "title": "万界独尊",
-    "tmdb_id": 122612,
+    "tmdb_id": 122612
   },
   {
     "title": "氪金玩家",
-    "tmdb_id": 281607,
+    "tmdb_id": 281607
   },
   {
     "title": "仙剑奇侠传叁",
-    "tmdb_id": 233295,
+    "tmdb_id": 233295
   },
   {
     "title": "非人哉",
-    "tmdb_id": 94039,
+    "tmdb_id": 94039
   },
   {
     "title": "傲世丹神",
-    "tmdb_id": 275987,
+    "tmdb_id": 275987
   },
   {
     "title": "独步万古",
-    "tmdb_id": 235893,
+    "tmdb_id": 235893
   },
   {
     "title": "长生界",
-    "tmdb_id": 273600,
-  },
+    "tmdb_id": 273600
+  }
+]
