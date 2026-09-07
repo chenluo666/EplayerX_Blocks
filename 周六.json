@@ -1,80 +1,62 @@
-{
+[
+  {
     "title": "凡人修仙传",
-    "tmdb_id": 106449,
+    "tmdb_id": 106449
   },
   {
     "title": "斗破苍穹",
-    "tmdb_id": 79481,
+    "tmdb_id": 79481
   },
   {
     "title": "择天记",
-    "tmdb_id": 282158,
-  },
-  {
-    "title": "炼气十万年",
-    "tmdb_id": 220850,
+    "tmdb_id": 282158
   },
   {
     "title": "光阴之外",
-    "tmdb_id": 281233,
+    "tmdb_id": 281233
   },
   {
     "title": "择日飞升",
-    "tmdb_id": 326695,
+    "tmdb_id": 326695
   },
   {
     "title": "仙武传",
-    "tmdb_id": 222608,
-  },
-  {
-    "title": "宗门里除了我都是卧底",
-    "tmdb_id": 274149,
+    "tmdb_id": 222608
   },
   {
     "title": "神国之上",
-    "tmdb_id": 292624,
+    "tmdb_id": 292624
   },
   {
     "title": "诡秘之主",
-    "tmdb_id": 232230,
-  },
-  {
-    "title": "妖神记",
-    "tmdb_id": 76806,
-  },
-  {
-    "title": "万界独尊",
-    "tmdb_id": 122612,
+    "tmdb_id": 232230
   },
   {
     "title": "山海经密码",
-    "tmdb_id": 238685,
-  },
-  {
-    "title": "九阳武神",
-    "tmdb_id": 305899,
+    "tmdb_id": 238685
   },
   {
     "title": "狐妖小红娘",
-    "tmdb_id": 75787,
+    "tmdb_id": 75787
   },
   {
     "title": "大理寺日志",
-    "tmdb_id": 97878,
+    "tmdb_id": 97878
   },
   {
     "title": "魔道祖师",
-    "tmdb_id": 80732,
+    "tmdb_id": 80732
   },
   {
     "title": "大王饶命",
-    "tmdb_id": 146339,
+    "tmdb_id": 146339
   },
   {
     "title": "谷围南亭",
-    "tmdb_id": 297092,
+    "tmdb_id": 297092
   },
   {
     "title": "全球高武",
-    "tmdb_id": 279702,
-  },
+    "tmdb_id": 279702
+  }
+]
